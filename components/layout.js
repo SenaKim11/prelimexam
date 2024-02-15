@@ -5,7 +5,7 @@ import utilStyles from '../styles/utils.module.css';
 import Link from 'next/link';
 
 const name = 'Kim Julianne B. Sena';
-export const siteTitle = 'Kim Introductory';
+export const siteTitle = 'No Talent Required';
 
 export default function Layout({ children, home }) {
   return (
